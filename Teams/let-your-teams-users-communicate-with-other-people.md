@@ -34,6 +34,8 @@ Follow these steps:
 
 ### Step 2 - Enable your organization to communicate with another Teams organization
 
+Note: External access hasn't been fully rolled out, and so you may not see all of the below options within your tenant.
+
 ![teams-logo-30x30.png](media/teams-logo-30x30.png) **Using the Microsoft Teams and Skype for Business Admin Center**
 
    1. In the left navigation, go to **Org-wide settings** > **External access**. 
